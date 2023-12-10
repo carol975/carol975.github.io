@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2023-12-09 21:27:27 -0800
@@ -26,4 +26,10 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-talk]: https://talk.jekyllrb.com/ -->
+
+layout: post
+title:  "Hiya"
+date:   2023-12-09 21:27:27 -0800
+---
+Hiya, my name is Carol, I am a software engineer from Canada. I'm also an amateur ultimate frisbee player, aviation enthusiast, a hip-hop dancer, and a polyglot. (Yes all amateur level :)). I set up this little blog to capture thoughts I have on random things. Thanks for popping by, I'm glad you came! :heart:
