@@ -1,0 +1,21 @@
+---
+title:  2nd day
+layout: single
+date:   2023-12-09 22:27:27 -0800
+excerpt: 
+---
+
+Hlasldkjf;alskdjf;asdf
+a;sdkfj;aljkdsf
+asdf;lkasd;f
+rkdown
+      Remote Theme: Using theme mmistakes/minimal-mistakes
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.789821 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-12-10 18:22:33
+                    _posts/2023-12-09-test-post.markdown
+      Remote Theme: Using theme mmistakes/minimal-mistakes
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.794332 seconds.
+                    
