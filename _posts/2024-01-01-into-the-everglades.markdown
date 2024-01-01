@@ -42,9 +42,9 @@ A little past 2 pm, we entered Everglades park and stopped at the meetup spot ne
 
 Wait. Hold up, hold up. Slog through the mud? 
 
-The boots Michael gave me only goes up to a little above my ankle and I didn’t wear waterproof pants. So this meant I would need to plod through this waist-high river half soaked in a mixture of sawgrass, mud and potentially water bugs while walking on the uneven limestone riverbed for the next hour. Oh did I mention there could be alligators in the water as well?! A group of defenseless humans walking in the river would be just like pizza deliveries for these hungry beasts, and we wouldn’t even ask for tips! 
+The boots Michael gave me only goes up to a little above my ankle and I didn’t wear waterproof pants. So this meant I would need to plod through this waist-high river half soaked in a mixture of sawgrass, mud and potentially water bugs while walking on the uneven limestone riverbed for the next hour. Oh did I mention there could be alligators in the water as well?! A group of defenseless humans walking in the river would be just like pizza deliveries for these hungry beasts, and they wouldn’t even tip! 
 
-Before I left home I searched up tours in Everglades, ten out of ten results were airboat rides. The picture on every program advertised a group of happy tourists wearing t-shirts and sunglasses cruising through the calm water of Everglades while holding up smartphones taking pictures of the surroundings and nodding at each other as if the beauty of the nature had somewhat won their approval. 
+Before I left home I searched up tours in Everglades, ten out of ten results were airboat rides. The picture on every program advertised a group of happy tourists wearing t-shirts and sunglasses cruising through the calm water of Everglades while holding up smartphones taking pictures and nodding at each other as if the beauty of the nature had somewhat won their approval. 
 
 Wasn’t I supposed to be just like one of these tourists? Sitting comfortably in a nice and dry boat enjoying the scenery passing by, occasionally pointing out an interesting-looking bird or plant to my fellow travelers and chuckle elegantly?
 
@@ -72,9 +72,9 @@ Another step, the water flooded into my left boot.
 
 Oh welp, at this point I had given up on being an elegant tourist. I made up my mind to continue the pilgrimage, to wherever Max was leading us.
 
-The surface of the river was covered with sawgrass and shrubs of dwarf trees, so tightly packed that when looked from afar it appeared as if the area was unpruned grassfield rather than river. But when you go into the field you would see the grayish water flowing slowly through the vegetation. The riverbed was composed of limestones with a foot of mud covering on top.
+The surface of the river was covered with sawgrass and shrubs of dwarf trees, so tightly packed that when looked from afar it appeared as if the area was unpruned grassfield rather than river. But when you step into the field you would see the grayish water flowing slowly through the vegetation. You could feel the hard riverbed composed of limestones with a foot of mud covering on top.
 
-The way one should slog through a slough is like this: you hold your hiking pole or wooden stick tightly with both of your hands and stab the end of the pole into the riverbed roughly half a meter in front of you. The pole should go deep enough to touch the bottom of the riverbed. In this case you should feel the pole hitting the solid limestone under the mud. Without letting go of the poles from your hands, walk slowly toward the place the end of the pole is stabbed. Pull the pole out and repeat the procedure. The only thing to remember is to move the pole first then walk, otherwise it’s very easy to lose balance. 
+The way one should slog through a slough is like this: you hold your hiking pole or wooden stick tightly with both of your hands and stab the end of the pole into the riverbed roughly half a meter in front of you. The pole should go deep enough to touch the bottom of the riverbed. In this case you should feel the pole hitting the solid limestone under the mud. Without letting go of the poles from your hands, walk slowly toward where the end of your pole is stabbed. Pull the pole out and repeat the procedure. The only thing to remember is to move the pole first then walk, otherwise it’s very easy to lose balance. 
 
 As we slogged further we started seeing these yellow-greenish tubular sponges floating in the water.  
 
@@ -90,7 +90,7 @@ Periphyton is a type of algae, Max explained, it conducts photosynthesis with en
 
 I took the courage and squeezed one periphyton with my bare hand, it was so soggy. But hey, those airboat riders didn’t get to touch it! 
 
-As we walked further into the river the water turned clearer. The periphytons disappeared, short shrubs were gradually replaced by a forest of tall Cypress trees. These cypress trees grow in water and have their roots deeply integrated with the limestone bedrocks. I put my hand on the trunk of one of the trees, feeling its rough surface. Definitely something I wouldn't get to touch if I was on an airboat ride. The boat wouldn't be able to navigate through the trees and the noise from the boat would probably disrupt the peace in this secretive world. 
+As we walked further into the river the water turned clearer. The periphytons disappeared, short shrubs were gradually replaced by a forest of tall Cypress trees. These Cypress trees grow in water and have their roots deeply integrated with the limestone bedrocks. I put my hand on the trunk of one of the trees, feeling its rough surface. Definitely something I wouldn't get to touch if I was on an airboat ride. The boat wouldn't be able to navigate through the trees and the noise from the boat would probably disrupt the peace in this secretive world. 
 
 Yes, peace. 
 
@@ -100,7 +100,7 @@ We were so far into the slough that no cars or other human beings could be seen.
 
 I did as told. The wind brushed over the trees in a soothing cadence. The sunlight that shone through the branches caressed my face with its gentle warmth. The water around my legs stood still. All things patiently waited for me to take them into my soul. 
 
-![My helpful screenshot](/assets/images/everglades
+![everglades_river](/assets/images/everglades
 _river.jpg)
 
 I felt calm. 
@@ -113,6 +113,6 @@ I don’t know, I said quietly to myself. Perhaps I need to start learning how t
 
 As we started heading back, Max started humming the famous song by Kingston Trio, “but he better keep movin' and don't stand still. If the 'skeeters don't get then the 'gaters will. Runnin' like a dog through the Everglades.”
 
-Hail Everglades! 
+Ay, it was a wonderful adventure. Hail the Everglades! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/us0pHqkUWOo?si=fk6amaeIDGmDxiDn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
