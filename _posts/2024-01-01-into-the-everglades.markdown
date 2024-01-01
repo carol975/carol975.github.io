@@ -3,6 +3,8 @@ title:  Into the Everglades
 layout: single
 date:   2024-01-01 12:13:00 -0800
 read_time: true
+header:
+  image: /assets/images/cypress_tree.jpg
 ---
 >But he better keep movin' and don't stand still. If the 'skeeters don't get then the 'gaters will. Runnin' like a dog through the Everglades.
 >
@@ -98,7 +100,8 @@ We were so far into the slough that no cars or other human beings could be seen.
 
 I did as told. The wind brushed over the trees in a soothing cadence. The sunlight that shone through the branches caressed my face with its gentle warmth. The water around my legs stood still. All things patiently waited for me to take them into my soul. 
 
-![My helpful screenshot](/assets/images/cypress_tree.jpg)
+![My helpful screenshot](/assets/images/everglades
+_river.jpg)
 
 I felt calm. 
 
