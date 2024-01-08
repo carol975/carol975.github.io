@@ -2,7 +2,12 @@
 title:  6:00 pm,  MIA FL. USA
 layout: single
 date:   2023-12-21 09:29:27 -0500
-excerpt: 
+read_time: true
+categories:
+    - Travel
+tags:
+    - miami
+    - usa
 ---
 As soon as the airplane stopped at the arrival gate I was welcomed by a ball of warm, humid air. It was mid december, and I was dressed in proper winter clothing: thick sweater, lined long pants, leathered boots, and a long black down jacket tied around my waist. The warmth of the air was not ebbing away and I began to sweat. As I got off the plane and walked into the terminal I noticed airport staff were chatting in Spanish. The signs in the airport were also bilingual, in both English and Spanish. Evidently my destination is one of the southernmost cities in the United States, I have arrived at Miami, Florida. 
 
