@@ -5,8 +5,6 @@ date:   2024-01-01 12:13:00 -0800
 read_time: true
 header:
   image: /assets/images/cypress_tree.jpg
-categories:
-    - Travel
 tags:
     - miami
     - usa

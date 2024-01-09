@@ -3,8 +3,6 @@ title:  6:00 pm,  MIA FL. USA
 layout: single
 date:   2023-12-21 09:29:27 -0500
 read_time: true
-categories:
-    - Travel
 tags:
     - miami
     - usa
