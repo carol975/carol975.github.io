@@ -3,4 +3,4 @@ title:  Hiya
 layout: single
 date:   2023-12-09 21:27:27 -0800
 ---
-Hiya, my name is Carol, I am a software engineer from Canada. I'm also a beginner ultimate frisbee player, and a polyglot. I set up this little blog to capture thoughts I have on random things. Thanks for popping by, I'm glad you came! :heart::heart::heart:
+Hiya, my name is Carol, I am a software engineer from Canada. I also enjoy playing ultimate frisbee, and learning different languages. I set up this little blog to capture thoughts I have on random things. Thanks for popping by, I'm glad you came! :heart::heart::heart:
